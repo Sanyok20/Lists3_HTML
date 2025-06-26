@@ -1,0 +1,20 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: #f5f5f5;
+    padding: 10px;
+}
+
+dt {
+    font-style: italic;
+}
+
+.grey {
+    color: #8d8a89;
+}
+
+.blue {
+    color: #5d4891;
+}
